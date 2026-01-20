@@ -129,7 +129,7 @@ npm start
 
 ## Demo Video
 
-[Link to demo video will be added here]
+- this is my loom recording -> **https://www.loom.com/share/f33958ade6ad44b7ba13507bd94c7790**
 
 
 
