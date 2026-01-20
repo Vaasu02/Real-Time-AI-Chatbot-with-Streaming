@@ -120,14 +120,14 @@ npm start
 | `NEXT_PUBLIC_SOCKET_URL` | Socket.io server URL | No (defaults to same origin) |
 
 
-## 📊 Time Spent
+## Time Spent
 
 - **Planning**: ~1 hour
 - **Implementation**: ~8 hours
 - **Testing & Polish**: ~1 hour
 - **Total**: ~10 hours
 
-## 🎥 Demo Video
+## Demo Video
 
 [Link to demo video will be added here]
 
