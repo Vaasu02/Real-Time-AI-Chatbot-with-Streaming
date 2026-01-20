@@ -112,14 +112,6 @@ npm start
 - [x] Typing indicator animation
 
 
-## Environment Variables
-
-| Variable | Description | Required |
-|----------|-------------|----------|
-| `GEMINI_API_KEY` | Google Gemini API key | Yes |
-| `NEXT_PUBLIC_SOCKET_URL` | Socket.io server URL | No (defaults to same origin) |
-
-
 ## Time Spent
 
 - **Planning**: ~1 hour
