@@ -119,9 +119,6 @@ npm start
 - **Testing & Polish**: ~1 hour
 - **Total**: ~10 hours
 
-## Demo Video
-
-- this is my loom recording -> **https://www.loom.com/share/f33958ade6ad44b7ba13507bd94c7790**
 
 
 
